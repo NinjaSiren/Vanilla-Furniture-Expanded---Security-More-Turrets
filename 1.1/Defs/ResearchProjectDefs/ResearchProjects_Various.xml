@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef ParentName="VFES_ResearchBase">
+		<defName>VFES_LaserDefences</defName>
+		<label>Laser Defences</label>
+		<description>Research laser-based and electromagnetic-based base defences.</description>
+		<baseCost>12000</baseCost>
+		<techLevel>Archotech</techLevel>
+		<prerequisites>
+			<li>VWE_UltratechLaserWeapons</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<researchViewX>10.00</researchViewX>
+		<researchViewY>0.80</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>
