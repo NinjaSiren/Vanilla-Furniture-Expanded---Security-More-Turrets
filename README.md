@@ -7,3 +7,7 @@ Not yet approved or seen by the Vanilla Extended team, but it needs the followin
 
 Vanilla Furniture Expanded - Security
 Vanilla Weapons Expanded - Lasers
+
+The turrets might be OP or unbalanced. (especially the Laser and Tesla turrets) This mod also adds a Double Artillery Cannon, and a Dual Charge Turret.
+The laser and tesla turrets is only usable when you reasearch Laser Defences, a new addition by this mod that is located on the highest tier. (Archotech)
+The turrets also have higher power requirements to run.
