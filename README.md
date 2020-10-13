@@ -7,6 +7,10 @@ Not yet approved or seen by the Vanilla Extended team, but it needs the followin
 
 Vanilla Furniture Expanded - Security & Vanilla Weapons Expanded - Lasers
 
+
+This mod adds 6 additional turrets (Small Rocket/Mini Rocket Turret, Dual Charge Turret, Dual Cannon Artillery, Laser Minigun Turret, Laser Sniper Turret, and Tesla Turret)
+
+
 The turrets might be OP or unbalanced. (especially the Laser, Tesla, and Small Rocket turrets) This mod also adds a Double Artillery Cannon, and a Dual Charge Turret.
 
 
