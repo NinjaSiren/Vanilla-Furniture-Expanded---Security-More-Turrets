@@ -5,8 +5,7 @@ Works with Rimworld 1.1 and 1.2
 
 Not yet approved or seen by the Vanilla Extended team, but it needs the following Vanilla Expanded mods to run:
 
-Vanilla Furniture Expanded - Security
-Vanilla Weapons Expanded - Lasers
+Vanilla Furniture Expanded - Security & Vanilla Weapons Expanded - Lasers
 
 The turrets might be OP or unbalanced. (especially the Laser, Tesla, and Small Rocket turrets) This mod also adds a Double Artillery Cannon, and a Dual Charge Turret.
 
