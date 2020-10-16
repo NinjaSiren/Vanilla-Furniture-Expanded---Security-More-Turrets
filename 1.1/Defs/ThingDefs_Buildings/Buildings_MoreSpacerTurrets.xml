@@ -47,7 +47,7 @@
       <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>150</basePowerConsumption>
+        <basePowerConsumption>200</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
@@ -190,7 +190,7 @@
       <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>175</basePowerConsumption>
+        <basePowerConsumption>200</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
@@ -352,7 +352,7 @@
       <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>250</basePowerConsumption>
+        <basePowerConsumption>300</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
@@ -514,7 +514,7 @@
       <li Class="CompProperties_Forbiddable"/>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTrader</compClass>
-        <basePowerConsumption>350</basePowerConsumption>
+        <basePowerConsumption>450</basePowerConsumption>
       </li>
       <li Class="CompProperties_Flickable"/>
       <li Class="CompProperties_Breakdownable"/>
